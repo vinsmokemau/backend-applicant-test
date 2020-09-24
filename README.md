@@ -25,10 +25,14 @@ The objective for the first part of the test is to create an API for publishing 
 
 ### 3.- Unit test
 The second part of this project are the unit tests.
+* Make a commit with the label "[+] Blog API unit test"
 
 #### Rules:
  - Create an unit test related to login
  - Create an unit test related to posts
  - Create an unit test related to comments
+
+### 4.- Pull Request
+* Make a PR to this repository with title "Backend Applicant - Your Name"
 
 # Happy Coding :)
