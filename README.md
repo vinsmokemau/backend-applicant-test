@@ -4,8 +4,8 @@ This repository will be used by applicants to collaborate with casai to upload t
 * Make a fork of this repository, with your github user and resolve the technical test problems.
 
 ## 1.- Edit this readme file and complete the next data:
-#### Full Name:
-#### Personal Email:
+#### Mau Munguia:
+#### maumg1196@gmail.com:
 * Make a commit with the label "[+] Personal Info"
 
 ## Problems & instructions
